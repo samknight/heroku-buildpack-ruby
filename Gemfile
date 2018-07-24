@@ -14,4 +14,5 @@ group :development, :test do
   gem 'json', '~> 2.0.2'
   gem 'ci-queue'
   gem 'redis'
+  gem 'rspec_tap'
 end
